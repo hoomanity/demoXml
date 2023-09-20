@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="products.xsl" type="text/xsl"?>
+<Products>
+  <Product Id="BA-0912-02">
+    <Name>Rustic White Bread Sliced</Name>
+    <Price>4.30</Price>
+    <OnHand>42</OnHand>
+  </Product>
+  
+  <Product Id="BA-0182-01">
+    <Name>Gluten Free Soft Rolls</Name>
+    <Price>4.00</Price>
+    <OnHand>128</OnHand>
+  </Product>
+  
+  <Product Id="BA-2220-03">
+    <Name>Hot Cross Buns Original</Name>
+    <Price>5.20</Price>
+    <OnHand>8227</OnHand>
+  </Product>
+  
+  <Product Id="FV-9188-03">
+    <Name>Fresh Bananas (per kg)</Name>
+    <Price>3.20</Price>
+    <OnHand>801</OnHand>
+  </Product>
+  
+  <Product Id="FV-5561-01">
+    <Name>White Seedless Grapes Bunch</Name>
+    <Price>4.50</Price>
+    <OnHand>28</OnHand>
+  </Product>
+  
+  <Product Id="FV-0317-02">
+    <Name>Broccoli (per kg)</Name>
+    <Price>3.90</Price>
+    <OnHand>40</OnHand>
+  </Product>
+  
+  <Product Id="FV-0199-01">
+    <Name>Blueberries Prepacked</Name>
+    <Price>4.50</Price>
+    <OnHand>98</OnHand>
+  </Product>
+  
+  <Product Id="FV-8881-01">
+    <Name>Brown Onions (per kg)</Name>
+    <Price>3.42</Price>
+    <OnHand>12</OnHand>
+  </Product>
+  
+  <Product Id="DE-9918-03">
+    <Name>Smoked Leg Ham (per kg)</Name>
+    <Price>29.50</Price>
+    <OnHand>34</OnHand>
+  </Product>
+  
+  <Product Id="DE-0187-01">
+    <Name>Natural Beef Sausages (6)</Name>
+    <Price>12.50</Price>
+    <OnHand>23</OnHand>
+  </Product>
+  
+  <Product Id="FR-9811-01">
+    <Name>Mango and Macadamia Icecream</Name>
+    <Price>6.50</Price>
+    <OnHand>7</OnHand>
+  </Product>
+  
+  <Product Id="FR-2999-03">
+    <Name>Frozen Meat Pies (4 pack)</Name>
+    <Price>8.50</Price>
+    <OnHand>77</OnHand>
+  </Product>
+  
+  <Product Id="FR-2201-02">
+    <Name>Frozen Peas (1kg)</Name>
+    <Price>2.70</Price>
+    <OnHand>44</OnHand>
+  </Product>
+  
+  <Product Id="BB-8812-02">
+    <Name>Organic Baby Snacks</Name>
+    <Price>82.30</Price>
+    <OnHand>34</OnHand>
+  </Product>
+  
+  <Product Id="BB-8102-01">
+    <Name>Wet Wipes (80 pack)</Name>
+    <Price>2.40</Price>
+    <OnHand>61</OnHand>
+  </Product>
+  
+  
+</Products>
