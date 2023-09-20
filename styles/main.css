@@ -23,6 +23,8 @@ h1 {
     text-align: center;
 }
 
+/* table content */
+
 table {
     margin: 0 auto;
     border-collapse: collapse;
@@ -37,13 +39,21 @@ table td {
 table th {
     background-color: #666;
     color: #eee;
+    padding: 1.5em;
+
 }
 
-.category-image>* {
+tr:nth-child(odd) {
+    background-color: #4b416e44;
+}
+
+
+/* image */
+.image-filename>* {
     vertical-align: middle;
 }
 
-.category-image>img {
+.image-filename>img {
     aspect-ratio: 1;
     width: 16px;
     height: auto;
@@ -53,8 +63,6 @@ table th {
     margin-left: 0.8em;
     font-size: 0.8em;
     color: #777;
-
-
 }
 
 .cash {
